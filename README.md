@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently in a web developper formation<br>👯 I’m looking for more and more dev projet, contact me on Discord : Goadney#3895<br>🌱 I’m currently developing for an application with 400+ members<br>⚡ Current skills : Full-stack developper (HTML, CSS, JS, PHP ) , .NET Framework C#<br>🎓 Learning in progress : Vue.js, Electron, Symfony(php), Python, Django, Docker<br>🔥    Passionate about development, I work day and night to succeed
+🔭 I’m currently in a web developper formation<br>👯 I’m looking for more and more dev projet, contact me on Discord : Goadney#3895<br>🌱 I’m currently developing for an application with 400+ members<br>⚡ Current skills : Full-stack developper (HTML, CSS, JS, PHP ) , .NET Framework C#<br>🎓 Learning in progress : Vue.js, Electron, Symfony(php), Python, Django, Docker <br>🔥  Passionate about development, I work day and night to succeed
 
 
 ## 🌐 Socials:
