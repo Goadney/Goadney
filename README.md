@@ -20,12 +20,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Goadney&theme=dark&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Goadney&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Goadney&icon=8&color=11)](https://visitcount.itsvg.in)
 
