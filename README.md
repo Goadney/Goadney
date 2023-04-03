@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+you+have+arrived+at+the+Goadney+shrine)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 🔭 I’m currently in a web developper formation<br>👯 I’m looking for more and more dev projet, contact me on Discord : Goadney#3895<br>🌱 I’m currently developing for an application with 400+ members<br>⚡ Current web skills : Full-stack developper (HTML, CSS, JS, PHP ) <br>⚡ Current app skills : .NET Framework C# <br>🎓 Learning in progress : Vue.js, Electron, Symfony(php), Python, Django, Docker <br>🔥  Passionate about development, I work day and night to succeed
 
