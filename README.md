@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+you+have+arrived+at+the+Goadney+shrine)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=15&pause=1000&color=772B9A&background=FFFFFF00&width=435&lines=Hello%2C+you+have+arrived+at+the+Goadney+shrine)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
