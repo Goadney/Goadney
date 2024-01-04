@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=15&pause=1000&color=772B9A&background=FFFFFF00&width=435&lines=Hello%2C+you+have+arrived+at+the+Goadney+shrine)](https://git.io/typing-svg)
 
+# 🔥 Check my portfolio if you're interested : [Portfolio](https://nacher-gregory.fr)
 
 # 💫 About Me:
 🔭 I've just finished the web & mobile web developer course. I'd like to continue my studies as an application developer on a sandwich course.<br>👯 I’m looking for more and more dev projet, contact me on Discord : Goadney#3895<br>🌱 I’m currently developing for an application with 400+ members<br>⚡ Current web skills : Full-stack developper (HTML, CSS, JS, PHP, Symfony) <br>⚡ Current app skills : .NET Framework C# <br>🎓 Learning in progress : Vue.js, Electron, Python, Django, Docker <br>🔥  Passionate about development, I work day and night to succeed
