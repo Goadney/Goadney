@@ -3,7 +3,7 @@
 # 🔥 Check my portfolio if you're interested : [Portfolio](https://nacher-gregory.fr)
 
 # 💫 About Me:
-🔭 Having obtained the Web & Mobile Developer diploma, I'm continuing my studies as an applications developer on a sandwich course with the ENI school.<br>👯 I’m looking for more and more dev project, contact me on Discord : Goadney#3895<br>🌱 I’m currently developing for an application with 400+ members<br>⚡ Current web skills : Full-stack developper (HTML, CSS, JS, PHP, Symfony, Laravel) <br>⚡ Current app skills : .NET Framework C# <br>🎓 Learning in progress : Angular.js, Java Spring Booot, Java, Java EE, Python (IA) <br>🔥  Passionate about development, I work day and night to succeed
+🔭 Having obtained the Web & Web Mobile Developer diploma, I'm continuing my studies as an applications developer on a sandwich course with the ENI school.<br>👯 I’m looking for more and more dev project, contact me on Discord : Goadney#3895<br>🌱 I’m currently developing for an application with 400+ members<br>⚡ Current web skills : Full-stack developper (HTML, CSS, JS, PHP, Symfony, Laravel) <br>⚡ Current app skills : .NET Framework C# <br>🎓 Learning in progress : Angular.js, Java Spring Booot, Java, Java EE, Python (IA) <br>🔥  Passionate about development, I work day and night to succeed
 
 
 ## 🌐 Socials:
